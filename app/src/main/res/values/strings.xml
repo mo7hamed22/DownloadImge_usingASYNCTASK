@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Imge_usingASYNCTASK</string>
+    <string name="downloadBTN">Download_Imge</string>
+    <string name="download_btn">Download</string>
+</resources>
